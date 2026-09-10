@@ -1,0 +1,8 @@
+test-network/organizations/peerOrganizations/
+test-network/organizations/ordererOrganizations/
+test-network/organizations/fabric-ca/
+test-network/channel-artifacts/
+test-network/system-genesis-block/
+*.tar.gz
+*.block
+*.log
